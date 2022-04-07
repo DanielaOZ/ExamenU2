@@ -1,0 +1,20 @@
+.box {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .uno {
+    flex: 1 1 auto;
+  }
+
+  .dos {
+    flex: 1 1 auto;
+  }
+
+.tabla{
+width: 80%;
+text-align: center;
+padding-left: 10%;
+}
+h1{
+  text-align: center;
+}
